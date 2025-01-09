@@ -1,4 +1,2 @@
 # I started coding using arduino uno
-i made my first code at arduino by creating a traffic signal .
-Next i made a code to fade light on and off
-Then I made a basic car reverse system using ultrasonic and buzzer
+I started with my first Arduino project by creating a traffic signal system. After that, I worked on a project to make an LED fade on and off. Finally, I developed a basic car reverse system using an ultrasonic sensor and a buzzer, which detects obstacles behind the car and sounds an alarm that gets louder as the object gets closer.
